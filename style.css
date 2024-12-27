@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  color: #000;
+  font-family: Lato;
+  font-size: 72px;
+  text-transform: uppercase;
+  margin-top: 48px;
+}
+
+#theSpecialOne {
+  margin-top: 16px;
+}
+
+.header_p {
+  color: #ff8000;
+  text-align: center;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  margin: 53px auto 0;
+  width: 1220px;
+}
+
+.first_section {
+  margin-top: 63px;
+}
+.first_section_text_container_heading {
+  color: #d9ae00;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.first_section_text_container_p {
+  color: #6d81b4;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 24px;
+}
+
+.second_section {
+  width: 1007px;
+  border-top: 2px solid #000;
+  border-left: 2px solid #000;
+  border-right: 3px solid #f00;
+  border-bottom: 3px solid #f00;
+  background-color: #ffcebe;
+  padding: 64px;
+}
+.second_section_text_container_heading {
+  color: #f44e50;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+.second_section_text_container_p {
+  color: #8b2b2c;
+  text-align: center;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 500;
+  width: 681px;
+  margin: 24px auto 0;
+}
+
+.third_section_first_text_container_heading {
+  color: #4716e4;
+  text-align: right;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.third_section_first_text_container_p {
+  color: #616161;
+  text-align: right;
+  font-family: Lato;
+  font-size: 24px;
+  padding: 24px;
+  border: 3px solid #ff5da3;
+  background-color: #ffc1e3;
+  margin-top: 24px;
+}
+.third_section_second_text_container_heading {
+  color: #414651;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 24px;
+}
+.dots {
+  width: 16px;
+  height: 16px;
+  background-color: #000;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 20px 0;
+}
+.dots_under_p {
+  color: #c27512;
+  font-family: Lato;
+  font-size: 16px;
+  line-height: 24px;
+  display: inline-block;
+  width: 668px;
+}
+.third_section_second_text_container_divs {
+  margin-top: 8px;
+}
+
+.second_section,
+.third_section {
+  margin-top: 101px;
+}
+.first_section,
+.second_section,
+.third_section {
+  margin-left: 74px;
+}
+.first_section,
+.third_section {
+  width: 696px;
+}
+.first_section_image,
+.second_section_image,
+.third_section_image,
+.third_section_second_text_container {
+  margin-top: 30px;
+}
